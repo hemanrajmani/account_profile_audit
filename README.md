@@ -25,6 +25,7 @@ The primary goals of this project are:
 ## Tools
 - Microsoft Excel
 - Charts
+- Slicers
 - Conditional Formatting
 - Data Validation
 
@@ -135,7 +136,7 @@ account-profile-audit-excel/
 
 1. Download the Excel workbook
 2. Open the `Dashboard` sheet
-3. Review audit logic in the `Audit Description` sheet
+3. Review audit logic in the `Audit_Description` sheet
 4. Analyze flagged records in `Account_Profile_Audit`
 
 ---
